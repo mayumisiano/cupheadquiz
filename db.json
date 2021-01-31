@@ -4,25 +4,26 @@
     "description": "Teste os seus conhecimentos sobre o game e vamos adivinhar quantas vezes você morreu.",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
+        "image": "https://i.pinimg.com/originals/3c/16/39/3c163975770b62745c44f2ab4d3d942b.gif",
+        "title": "Qual é o nome da fase em que há 3 chefões diferentes para serem derrotados na Inkwell Isle 1?",
         "description": "Essa é pra aquecer",
         "answer": 2,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Threatenin' Zeppelin ",
+          "Ruse of an Ooze",
+          "Botanic Panic!",
+          "Floral Fury"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://d1fs8ljxwyzba6.cloudfront.net/assets/article/2017/10/09/cuphead-all-hidden-coin-locations-guide_feature.jpg",
+        "title": "Qual fase da Inkwell Island 1 tem uma música temática de Samba?",
+        "description": "Essa é a minha favorita.",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "Clip Joint Calamity",
+           "Floral Fury",
+           "Ruse of an Ooze"
         ]
       }
     ],
