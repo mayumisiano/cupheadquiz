@@ -1,12 +1,12 @@
 {
-    "bg": "https://images.alphacoders.com/873/thumb-1920-873679.jpg",
+    "bg": "https://d2ofqe7l47306o.cloudfront.net/games/1920x1080/cuphead-dices.jpg",
     "title": "Quiz do Cuphead",
-    "description": "Teste os seus conhecimentos sobre o game e vamos adivinhar quantas vezes você morreu.",
+    "description": "Teste os seus conhecimentos sobre o jogo e relembre quanto estresse já passou.",
     "questions": [
       {
         "image": "https://i.pinimg.com/originals/3c/16/39/3c163975770b62745c44f2ab4d3d942b.gif",
         "title": "Qual é o nome da fase em que há 3 chefões diferentes para serem derrotados na Inkwell Isle 1?",
-        "description": "Essa é pra aquecer",
+        "description": "Essa é para aquecer.",
         "answer": 2,
         "alternatives": [
           "Threatenin' Zeppelin ",
@@ -18,17 +18,124 @@
       {
         "image": "https://d1fs8ljxwyzba6.cloudfront.net/assets/article/2017/10/09/cuphead-all-hidden-coin-locations-guide_feature.jpg",
         "title": "Qual fase da Inkwell Island 1 tem uma música temática de Samba?",
-        "description": "Essa é a minha favorita.",
+        "description": "É bem dançante.",
         "answer": 0,
         "alternatives": [
-           "Clip Joint Calamity",
            "Floral Fury",
-           "Ruse of an Ooze"
+           "Clip Joint Calamity", 
+           "Ruse of an Ooze",
+           "Forest Follies"
         ]
-      }
+      },
+      {
+        "image": "https://media-s3-us-east-1.ceros.com/hannah-s/images/2017/11/06/9679e1cbb82b425c4c9c6bce832872ac/giphy-11.gif?imageOpt=1",
+        "title": "Em que tipo de estética os criadores se inspiraram para criar o jogo?",
+        "description": "A concept art do jogo é sensacional!",
+        "answer": 3,
+        "alternatives": [
+           "Cartoons da década de 40",
+           "Cartoons da década de 60", 
+           "Cartoons da década de 70",
+           "Cartoons da década de 30"
+        ]
+      },
+
+      {
+        "image": "https://i.imgur.com/VaiE4QY.gif",
+        "title": "Qual das frases abaixo o apresentador das batalhas NÃO fala ao introduzir um chefão?",
+        "description": "Curiosidade: além de fazer a voz do announcer, ele também dublou mais outros 4 personagens do game.",
+        "answer": 2,
+        "alternatives": [
+           "A great slam and then some!",
+           "A brawl is surely brewing!", 
+           "This battle will get red hot!",
+           "Here's a real high-class bout!"
+        ]
+      },
+
+      {
+        "image": "https://veryverygaming.files.wordpress.com/2019/05/hilda-berg-cuphead-gif.gif",
+        "title": "Quais são os três signos do zodíaco nos quais Hilda Berg se transforma na fase inicial?",
+        "description": "Só me toquei que eram uma alusão depois de ler a Trivia.",
+        "answer": 1,
+        "alternatives": [
+           "Libra, Touro e Aquário",
+           "Gêmeos, Sagitário e Touro", 
+           "Sagitário, Áries e Peixes",
+           "Virgem, Capricórnio e Touro"
+        ]
+      },
+
+      {
+        "image": "https://img.ibxk.com.br/2020/07/28/28121720993069.jpg?w=704&h=264&mode=crop&scale=both",
+        "title": "Qual o nome do charm que permite que o jogador se esquive?",
+        "description": "Porque se esquivar é charmoso.",
+        "answer": 2,
+        "alternatives": [
+           "Bomb Dash",
+           "Dash away", 
+           "Smoke Bomb",
+           "Bomb off"
+        ]
+      },
+
+      {
+        "image": "https://gameplay.tips/uploads/posts/2017-10/1507039728_02.jpg",
+        "title": "Quantas ilhas existem ao todo para zerar o jogo?",
+        "description": "",
+        "answer": 2,
+        "alternatives": [
+           "2 ilhas",
+           "3 ilhas", 
+           "4 ilhas",
+           "5 ilhas"
+        ]
+      },
+
+      {
+        "image": "https://cdn.dribbble.com/users/2031410/screenshots/4039086/cup2.gif",
+        "title": "Dos chefões abaixo, apenas um pertence à fase de avião, qual é?",
+        "description": "É sempre tão difícil...",
+        "answer": 3,
+        "alternatives": [
+           "Grim Matchstick",
+           "Rumor Honeybottoms", 
+           "Werner Werman",
+           "Wally Warbles"
+        ]
+      },
+
+      {
+        "image": "https://i.ytimg.com/vi/jwx3u577ni4/maxresdefault.jpg",
+        "title": "Qual é o nome da primeira arma (arma padrão) com a que se inicia no jogo?",
+        "description": "Pew pew pew",
+        "answer": 1,
+        "alternatives": [
+           "Rondabout",
+           "Peashooter", 
+           "Lobber",
+           "Spread"
+        ]
+      },
+
+      {
+        "image": "data:image/jpeg;base64,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",
+        "title": "Por fim, complete a letra musical da tela de menu do jogo: 'Well Cuphead and his pal Mugman...'",
+        "description": "",
+        "answer": 2,
+        "alternatives": [
+           "...They like to hold the mice",
+           "...They like to throw the ice", 
+           "...They like to roll the dice",
+           "...They like to cook some rice"
+        ]
+      } 
+        
     ],
     "external": [
-      ""
+      "https://aluraquiz-css.omariosouto.vercel.app/",
+      "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
+      
     ],
     "theme": {
       "colors": {
